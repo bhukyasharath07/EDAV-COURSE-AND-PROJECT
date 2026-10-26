@@ -1,0 +1,17 @@
+Library_Branch,Month,Visits,Books_Borrowed,Computer_Sessions,Reference_Queries,Program_Attendees,Study_Room_Uses,Total_Recorded_Uses,Borrowing_Per_Visit
+Central Library,Jan,420,310,185,96,72,54,717,0.738
+Central Library,Feb,390,295,172,88,68,49,672,0.756
+Central Library,Mar,460,338,201,104,81,61,785,0.735
+Central Library,Apr,440,325,194,99,77,58,753,0.739
+North Branch,Jan,280,205,121,62,45,34,467,0.732
+North Branch,Feb,265,198,115,59,43,32,447,0.747
+North Branch,Mar,315,231,139,71,52,39,532,0.733
+North Branch,Apr,300,220,132,68,49,37,506,0.733
+East Branch,Jan,245,178,105,54,38,29,404,0.727
+East Branch,Feb,230,169,98,51,36,27,381,0.735
+East Branch,Mar,275,202,118,60,43,33,456,0.735
+East Branch,Apr,260,190,112,57,41,31,431,0.731
+West Branch,Jan,210,152,88,45,31,23,339,0.724
+West Branch,Feb,195,145,82,42,29,21,319,0.744
+West Branch,Mar,235,171,99,50,35,26,381,0.728
+West Branch,Apr,220,162,94,47,33,25,361,0.736
